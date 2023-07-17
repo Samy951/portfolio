@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Portfolio",
+    "description": "My Personal Portfolio",
+    "technologies": ["NextJS", "ReactJS", "Framer Motion", "Tailwind"],
+    "image": "/project1.png",
+    "src": "https://github.com/crazycart143/Portfolio"
+  },
+  {
+    "title": "Twitter Clone",
+    "description": "Make some tweets and reply to them",
+    "technologies": ["NextJS", "ReactJS", "Next-Auth", "Tailwind", "Firebase", "RecoilJS"],
+    "image": "/project2.png",
+    "src": "https://github.com/Samy951/twitter-clone"
+  },
+  {
+    "title": "Flixhive",
+    "description": "Look at some film trailers and get some info about them",
+    "technologies": ["NextJS", "ReactJS", "TailwindCSS", "TMDB API"],
+    "image": "/project3.png",
+    "src": "https://github.com/Samy951/FlixHive-WEB"
+  }
+]
