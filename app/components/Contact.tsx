@@ -4,11 +4,11 @@ export default function Contact() {
       <div className="flex flex-col gap-y-6 text-center md:text-start w-full lg:w-[500px]">
         <h1 className="font-bold text-[40px]">Let&apos;s work together.</h1>
         <p className="text-[18px] lg:text-[22px] xl:text-[20px]">
-          Contact me if you think that I am qualified for your business or
+          Contact me by linkedIn or Email at <span className={"font-bold"}>samy.hamlat01@gmail.com</span> if you think that I am qualified for your business or
           request an interview.
         </p>
         <button className="py-2 bg-white border-2 border-black rounded-lg text-[14px] md:px-2">
-          Sorry. Requesting projects is not allowed at this time.
+          <a href="https://www.linkedin.com/in/samy-hamlat-ab9220231/" target="_blank"> LinkedIn </a>
         </button>
       </div>
       <img
