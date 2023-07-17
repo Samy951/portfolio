@@ -4,7 +4,7 @@ export default function Services() {
   return (
     <section className="text-white flex flex-col justify-center items-center xs:px-8 sm:px-16 lg:px-[70px] xl:px-[120px] pb-14 max-w-[1400px]">
       <h1 className="mt-[50px] xs:text-[30px] sm:text-[40px] font-bold tracking-wider">
-        What I do?
+        What do I offer?
       </h1>
       <div className="flex flex-col flex-wrap h-full w-full justify-start items-start gap-y-20 mt-[50px] ">
         <div className="flex flex-col grid-cols-2 md:grid gap-x-28 gap-y-10 md:gap-y-0">
