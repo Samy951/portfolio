@@ -25,10 +25,10 @@ export default function Page() {
           >
             <Image
               src={project.image}
-              width={500}
-              height={500}
+              width={400}
+              height={300}
               alt={project.title}
-              className="object-contain w-full rounded-2xl "
+              className="object-contain w-full rounded-2xl border-black border-2 "
             />
             <h1 className="mt-4">{project.title}</h1>
             <p className="text-[12px] font-thin">{project.description}</p>
