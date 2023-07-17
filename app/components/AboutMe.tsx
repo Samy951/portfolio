@@ -61,7 +61,7 @@ export default function AboutMe() {
               viewport={{ once: true, amount: 0.25 }}
               className="w-full md:w-[30%] lg:w-[50%] text-[12px] lg:text-[14px] border-2 border-black py-2 font-bold hover:text-[#f2f2f4] hover:bg-black hover:border-white"
             >
-              DOWNLOAD CV
+              <a href={"https://acrobat.adobe.com/link/file/?size=70487&uri=urn%3Aaaid%3Asc%3AUS%3Abb8b3e8d-9c06-4fc4-bb54-cb7fa1033b78&filetype=application%2Fpdf&viewer%21megaVerb=group-discover"} target={"_blank"}>DOWNLOAD CV</a>
             </motion.button>
             <motion.div variants={zoomIn(2, 2)} className="flex gap-x-2">
               <a href="https://www.linkedin.com/in/samy-hamlat-ab9220231/">

@@ -23,5 +23,3 @@ B
 styles/globals.css,8\c\8c258232cbcd5d83991c524a9e86c8d3f984fc57
 @
 utils/motion.tsx,4\7\475da2fb44b73945300ebda07ab8a3d808d7f3b6
-J
-app/components/AboutMe.tsx,4\3\4346cb04e99bab5bdcf344f9526f7fe01b8743c3
