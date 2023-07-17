@@ -26,7 +26,7 @@ export default function Footer() {
         consent from him.
       </h1>
       <h1 className="text-center w-full lg:w-[800px] leading-8">
-        FR . Ce site web a été développé par Samy Hamlat. Il ne peut et ne doit pas être reproduire sous quelque forme ou par quelque moyen que ce soit sans son accord. l'accord de Samy Hamlat.
+        FR . Ce site web a été développé par Samy Hamlat. Il ne peut et ne doit pas être reproduire sous quelque forme ou par quelque moyen que ce soit sans son accord. l&apos;accord de Samy Hamlat.
       </h1>
       <Link href="https://github.com/Samy951" passHref>
         <button
