@@ -30,7 +30,7 @@ export default function Services() {
               </h2>
             </div>
             <p className="mt-[24px]">
-              Turning web designs and mockups into interactive and responsive
+              Turning web designs and mockups into an interactive and responsive
               website using Javascript, React and Next. Utilizing APIs to
               display data to the UI.
             </p>
